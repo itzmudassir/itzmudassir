@@ -1,7 +1,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6RfXQVL/h267iB1u.gif" alt="h267iB1u" border="0"></a>
 <h1 align="center">Hi 👋, I'm Mudassir</h1>
 <h3 align="center">A Student, IoT Enthusiast and a Passionate developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
+<img align="left" alt="Coding" width="300" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmudassir&label=Profile%20views&color=0e75b6&style=flat" alt="itzmudassir" /> </p>
 
