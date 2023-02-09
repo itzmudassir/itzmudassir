@@ -1,40 +1,34 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6RfXQVL/h267iB1u.gif" alt="h267iB1u" border="0"></a>
 <h1 align="center">Hi 👋, I'm Mudassir</h1>
-<h3 align="center">A Student, IoT Enthusiast and a Passionate developer from Pakistan.</h3>
+<h3 align="center">Welcome to my GitHub profile where I share my passion for coding and innovation. Take a look around and explore my projects!.</h3>
 <img align="left" alt="Coding" width="300" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmudassir&label=Profile%20views&color=0e75b6&style=flat" alt="itzmudassir" /> </p>
+# 💫 About Me:
+• 🔭 I’m currently working on the Green House Project 🌴<br>• 👯 I’m looking to collaborate with other content creators!!<br>• 🤝 I’m looking for help with [Green House Project](https://github.com/itzmudassir/Green-House)<br>• 👨‍💻 All of my projects are available at [Github](https://github.com/itzmudassir?tab=repositories)<br>• 🌱 I’m currently learning IoT, Tkinter<br>• 💬 Ask me about anything related to IoT, Tkinter, and related things<br>• 📫 How to reach me [Contact Info](itzmudassir07@gmail.com)<br>        
+•⚡ Fun fact: I use tabs over spaces
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmudassir" alt="itzmudassir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itzmudassir" target="blank"><img src="https://img.shields.io/twitter/follow/itzmudassir?logo=twitter&style=for-the-badge" alt="itzmudassir" /></a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=itzmudassir&icon=7&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [CGPA Calculator of IUB](https://github.com/itzmudassir/iub_gpa)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hardonite#5985) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzzmudassir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itzmudassir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itzmudassir) 
 
-- 👯 I’m looking to collaborate on [with other content Creators...](https://github.com/itzmudassir/Open-Gates-At-Car-Parking)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=itzmudassir&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itzmudassir&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmudassir&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🤝 I’m looking for help with [My Projects](https://github.com/itzmudassir/Open-Gates-At-Car-Parking)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itzmudassir&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-- 👨‍💻 All of my projects are available at [https://github.com/itzmudassir?tab=repositories](https://github.com/itzmudassir?tab=repositories)
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=itzmudassir)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- 💬 Ask me about **Arduino, IoT etc.**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-- 📫 How to reach me **itzmudassir07@gmail.com**
 
-- ⚡ Fun fact **I love to play Video games, i.e., Minecraft**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itzmudassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmudassir" height="30" width="40" /></a>
-<a href="https://instagram.com/itzzmudassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzzmudassir" height="30" width="40" /></a>
-<a href="https://discord.gg/Hardonite #5985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hardonite #5985" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmudassir&show_icons=true&locale=en&layout=compact" alt="itzmudassir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmudassir&show_icons=true&locale=en" alt="itzmudassir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmudassir&" alt="itzmudassir" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
