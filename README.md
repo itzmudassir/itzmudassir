@@ -3,7 +3,7 @@
 <img align="left" alt="Coding" width="300" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
 # 💫 About Me:
-• 🔭 I’m currently working on the Green House Project 🌴<br>• 👯 I’m looking to collaborate with other content creators!!<br>• 🤝 I’m looking for help with [Green House Project](https://github.com/itzmudassir/Green-House)<br>• 👨‍💻 All of my projects are available at [Github](https://github.com/itzmudassir?tab=repositories)<br>• 🌱 I’m currently learning IoT, Tkinter<br>• 💬 Ask me about anything related to IoT, Tkinter, and related things<br>• 📫 How to reach me [Contact Info](itzmudassir07@gmail.com)<br>•⚡ Fun fact: I use tabs over spaces
+• 🔭 I’m currently working on the Green House Project 🌴<br>• 👯 I’m looking to collaborate with other content creators!!<br>• 👨‍💻 All of my projects are available at [Github](https://github.com/itzmudassir?tab=repositories)<br>• 🌱 I’m currently learning React, IoT<br>• 💬 Ask me about anything related to IoT, Tkinter, and related things<br>• 📫 How to reach me [Contact Info](itzmudassir07@gmail.com)<br>•⚡ Fun fact: I use tabs over spaces
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itzmudassir&icon=7&color=0)](https://visitcount.itsvg.in)
