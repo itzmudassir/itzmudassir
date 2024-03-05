@@ -6,7 +6,7 @@
 • 🔭 I’m currently working on the Green House Project 🌴<br>• 👯 I’m looking to collaborate with other content creators!!<br>• 👨‍💻 All of my projects are available at [Github](https://github.com/itzmudassir?tab=repositories)<br>• 🌱 I’m currently learning React, IoT<br>• 💬 Ask me about anything related to IoT, Tkinter, and related things<br>• 📫 How to reach me [Contact Info](itzmudassir07@gmail.com)<br>•⚡ Fun fact: I use tabs over spaces
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itzmudassir&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mudassir&label=Profile%20Views&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
