@@ -64,10 +64,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Mudassir&label=Profile%20Views&icon=3&pretty=true)](https://visitcount.itsvg.in)
+###
 
+<h3 align="left">My Stats🔥</h3>
 
-## 🌐 Socials:
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzmudassir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmudassir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=itzmudassir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+</div>
+
 ###
 
 <div align="left">
@@ -90,25 +114,23 @@
 
 ###
 
-📊 GitHub Stats:
+
+
+<br clear="both">
+
+###
+<h3 align="left">Apologies, but I cannot fulfill that request.</h3>
+
+<img src="https://raw.githubusercontent.com/itzmudassir/itzmudassir/output/snake.svg" alt="Snake animation" />
+
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzmudassir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmudassir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=itzmudassir.itzmudassir&"  />
 </div>
 
 ###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itzmudassir&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=itzmudassir)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
